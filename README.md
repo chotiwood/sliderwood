@@ -1,4 +1,4 @@
-# final
+# swiper
 
 ## Project setup
 ```
